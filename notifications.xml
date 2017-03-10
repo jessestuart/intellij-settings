@@ -1,0 +1,5 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="Samebug Search Notifications" displayType="NONE" shouldLog="false" />
+  </component>
+</application>

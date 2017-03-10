@@ -1,0 +1,19 @@
+<application>
+  <component name="IntelliJOptimizer">
+    <option name="installationGuid" value="MPH1YCuc5u/KZgL2v4usAknidQmBP5/EcUdMKVayVrY=" />
+    <option name="installationTimestamp" value="1487820896780" />
+    <option name="firstBootTime" value="27955999048" />
+    <option name="previousBootTime" value="41633159577" />
+    <option name="currentBootTime" value="7226254446" />
+    <option name="isOpenOptimizerOnStartup" value="false" />
+    <option name="isFirstBoot" value="false" />
+    <option name="isSignedUp" value="true" />
+    <option name="isJRebelPresentNotificationSent" value="true" />
+    <option name="company" value="TodayTix" />
+    <option name="email" value="jesse.stuart@todaytix.com" />
+    <option name="firstName" value="Jesse" />
+    <option name="lastName" value="Stuart" />
+    <option name="phoneNumber" value="+15869432680" />
+    <option name="getDevelopersInCompany" value="10+" />
+  </component>
+</application>
