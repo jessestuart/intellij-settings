@@ -2,10 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="File '.../test/integration/com/todaytix/provider/tessitura/TessituraGenerateShowtimesTest.groovy - [platform]'" />
     <option name="defaultScopeName" value="File '.../test/integration/com/todaytix/provider/tessitura/TessituraGenerateShowtimesTest.groovy - [platform]'" />
-    <option name="localRegularExpressions" value="true" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="File '.../test/integration/com/todaytix/provider/tessitura/TessituraGenerateShowtimesTest.groovy - [platform]'" />
     <option name="FILE_MASK" value="*.groovy" />
     <recentFileMasks>
