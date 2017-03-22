@@ -90,7 +90,9 @@
         <root url="jar://$USER_HOME$/.sdkman/candidates/groovy/2.4.9/lib/xstream-1.4.7.jar!/" />
       </CLASSES>
       <JAVADOC />
-      <SOURCES />
+      <SOURCES>
+        <root url="jar://$USER_HOME$/.ideaLibSources/junit-4.12-sources.jar!/" />
+      </SOURCES>
     </library>
   </component>
 </application>
