@@ -1,4 +1,16 @@
 <code_scheme name="TodayTix Groovy Style">
+  <option name="IMPORT_LAYOUT_TABLE">
+    <value>
+      <package name="import com.todaytix.*" withSubpackages="true" static="false" />
+      <emptyLine />
+      <package name="" withSubpackages="true" static="false" />
+      <emptyLine />
+      <package name="javax" withSubpackages="true" static="false" />
+      <package name="java" withSubpackages="true" static="false" />
+      <emptyLine />
+      <package name="" withSubpackages="true" static="true" />
+    </value>
+  </option>
   <option name="RIGHT_MARGIN" value="80" />
   <GroovyCodeStyleSettings>
     <option name="ALIGN_NAMED_ARGS_IN_MAP" value="false" />
@@ -6,7 +18,7 @@
     <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="99" />
     <option name="IMPORT_LAYOUT_TABLE">
       <value>
-        <package name="com.todaytix.*" withSubpackages="true" static="false" />
+        <package name="com.todaytix.*" withSubpackages="false" static="false" />
         <emptyLine />
         <package name="" withSubpackages="true" static="false" />
         <emptyLine />
