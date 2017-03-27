@@ -2,8 +2,10 @@
   <component name="FindSettings">
     <option name="customScope" value="File '.../test/integration/com/todaytix/provider/tessitura/TessituraGenerateShowtimesTest.groovy - [platform]'" />
     <option name="defaultScopeName" value="File '.../test/integration/com/todaytix/provider/tessitura/TessituraGenerateShowtimesTest.groovy - [platform]'" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="File '.../test/integration/com/todaytix/provider/tessitura/TessituraGenerateShowtimesTest.groovy - [platform]'" />
-    <option name="FILE_MASK" value="*.groovy" />
+    <option name="FILE_MASK" value="*" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -18,8 +20,8 @@
       <mask>*.groovy, *.gsp, *.coffee, *.less</mask>
       <mask>*.coffee</mask>
       <mask>*.coffee, *.gsp</mask>
-      <mask>*</mask>
       <mask>*.groovy</mask>
+      <mask>*</mask>
     </recentFileMasks>
   </component>
 </application>
