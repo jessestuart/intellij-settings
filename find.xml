@@ -5,7 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*" />
+    <option name="FILE_MASK" value="*.groovy" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -19,13 +19,16 @@
       <mask>*.groovy, *.gsp, *.coffee</mask>
       <mask>*.groovy, *.gsp, *.coffee, *.less</mask>
       <mask>*.coffee, *.gsp</mask>
-      <mask>*.groovy</mask>
       <mask>*.groov</mask>
       <mask>*.cof</mask>
       <mask>*.coffe</mask>
       <mask>*.coffee</mask>
-      <mask>*.</mask>
       <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.g</mask>
+      <mask>*.gro</mask>
+      <mask>*.groo</mask>
+      <mask>*.groovy</mask>
     </recentFileMasks>
   </component>
 </application>
