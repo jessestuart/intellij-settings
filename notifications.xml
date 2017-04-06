@@ -1,5 +1,6 @@
 <application>
   <component name="NotificationConfiguration">
+    <notification groupId="IGNORE_GROUP" displayType="NONE" shouldLog="false" />
     <notification groupId="Samebug Search Notifications" displayType="NONE" shouldLog="false" />
   </component>
 </application>
