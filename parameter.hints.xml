@@ -1,5 +1,12 @@
 <application>
   <component name="ParameterNameHintsSettings">
-    <blacklists />
+    <blacklists>
+      <blacklist language="Groovy" />
+      <blacklist language="Java" />
+      <blacklist language="Groovy">
+        <added pattern="org.apache.commons.logging.Log.*" />
+      </blacklist>
+      <blacklist language="Java" />
+    </blacklists>
   </component>
 </application>
