@@ -5,10 +5,8 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.coffee" />
+    <option name="FILE_MASK" value="*" />
     <recentFileMasks>
-      <mask>*.html</mask>
-      <mask>*.jsp</mask>
       <mask>*.xml</mask>
       <mask>*.java</mask>
       <mask>*.as</mask>
@@ -28,7 +26,6 @@
       <mask>*.gro</mask>
       <mask>*.groov</mask>
       <mask>*.groovy</mask>
-      <mask>*</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*.</mask>
@@ -37,6 +34,9 @@
       <mask>*.cof</mask>
       <mask>*.coffe</mask>
       <mask>*.coffee</mask>
+      <mask>*.e</mask>
+      <mask>*e</mask>
+      <mask>*</mask>
     </recentFileMasks>
   </component>
 </application>
