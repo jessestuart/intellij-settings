@@ -9,7 +9,7 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.coffee, *.gsp" />
+    <option name="FILE_MASK" value="*.coffee" />
     <recentFileMasks>
       <mask>*.groovy, *.gsp, *.coffee</mask>
       <mask>*.groovy, *.gsp, *.coffee, *.less</mask>
@@ -34,13 +34,13 @@
       <mask>*.co</mask>
       <mask>*.cof</mask>
       <mask>*.coffe</mask>
-      <mask>*.coffee</mask>
       <mask>*.coffee,</mask>
       <mask>*.coffee, *</mask>
       <mask>*.coffee, *.</mask>
       <mask>*.coffee, *.g</mask>
       <mask>*.coffee, *.gs</mask>
       <mask>*.coffee, *.gsp</mask>
+      <mask>*.coffee</mask>
     </recentFileMasks>
   </component>
 </application>
