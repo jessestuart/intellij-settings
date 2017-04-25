@@ -7,7 +7,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.gsp, *.coffee" />
+    <option name="FILE_MASK" value="*.coffee" />
     <recentFileMasks>
       <mask>*.js</mask>
       <mask>*.j</mask>
@@ -29,8 +29,6 @@
       <mask>*.cof</mask>
       <mask>*.coff</mask>
       <mask>*.coffe</mask>
-      <mask>*.coffee</mask>
-      <mask>*</mask>
       <mask>*.</mask>
       <mask>*.g</mask>
       <mask>*.gs</mask>
@@ -39,6 +37,8 @@
       <mask>*.gsp,</mask>
       <mask>*.gsp, *</mask>
       <mask>*.gsp, *.coffee</mask>
+      <mask>*</mask>
+      <mask>*.coffee</mask>
     </recentFileMasks>
   </component>
 </application>
