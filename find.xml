@@ -7,13 +7,8 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.sql" />
     <recentFileMasks>
-      <mask>*.js</mask>
-      <mask>*.j</mask>
-      <mask>*.e</mask>
-      <mask>*e</mask>
-      <mask>*.coffee,</mask>
-      <mask>*.coffee, *</mask>
       <mask>*.coffee, *.</mask>
       <mask>*.coffee, *.g</mask>
       <mask>*.coffee, *.gs</mask>
@@ -28,7 +23,6 @@
       <mask>*.cof</mask>
       <mask>*.coff</mask>
       <mask>*.coffe</mask>
-      <mask>*.</mask>
       <mask>*.g</mask>
       <mask>*.gs</mask>
       <mask>*.gsp</mask>
@@ -38,6 +32,13 @@
       <mask>*.gsp, *.coffee</mask>
       <mask>*</mask>
       <mask>*.coffee</mask>
+      <mask>*.m</mask>
+      <mask>*.mys</mask>
+      <mask>*.mysql</mask>
+      <mask>*.</mask>
+      <mask>*.s</mask>
+      <mask>*.sq</mask>
+      <mask>*.sql</mask>
     </recentFileMasks>
   </component>
 </application>
