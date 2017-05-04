@@ -3,14 +3,13 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*" />
+    <option name="FILE_MASK" value="*.groovy" />
     <recentFileMasks>
       <mask>*.coffee, *.</mask>
       <mask>*.coffee, *.g</mask>
       <mask>*.coffee, *.gs</mask>
       <mask>*.coffee, *.gsp</mask>
       <mask>*.gr</mask>
-      <mask>*.groo</mask>
       <mask>*.gs</mask>
       <mask>*.gsp</mask>
       <mask>*.gsp,</mask>
@@ -24,17 +23,18 @@
       <mask>*.sq</mask>
       <mask>*.sql</mask>
       <mask>*.g</mask>
-      <mask>*.gro</mask>
       <mask>*.groov</mask>
-      <mask>*.groovy</mask>
       <mask>*.coff</mask>
-      <mask>*.</mask>
       <mask>*.c</mask>
       <mask>*.co</mask>
       <mask>*.cof</mask>
       <mask>*.coffe</mask>
       <mask>*.coffee</mask>
       <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.gro</mask>
+      <mask>*.groo</mask>
+      <mask>*.groovy</mask>
     </recentFileMasks>
   </component>
 </application>
