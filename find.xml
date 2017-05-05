@@ -5,7 +5,7 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.sql" />
+    <option name="FILE_MASK" value="*.coffee" />
     <recentFileMasks>
       <mask>*.coffee, *.</mask>
       <mask>*.coffee, *.g</mask>
@@ -23,20 +23,20 @@
       <mask>*.mysql</mask>
       <mask>*.g</mask>
       <mask>*.groov</mask>
-      <mask>*.coff</mask>
       <mask>*.c</mask>
-      <mask>*.co</mask>
-      <mask>*.cof</mask>
-      <mask>*.coffe</mask>
-      <mask>*.coffee</mask>
       <mask>*</mask>
       <mask>*.gro</mask>
       <mask>*.groo</mask>
       <mask>*.groovy</mask>
-      <mask>*.</mask>
       <mask>*.s</mask>
       <mask>*.sq</mask>
       <mask>*.sql</mask>
+      <mask>*.</mask>
+      <mask>*.co</mask>
+      <mask>*.cof</mask>
+      <mask>*.coff</mask>
+      <mask>*.coffe</mask>
+      <mask>*.coffee</mask>
     </recentFileMasks>
   </component>
 </application>
