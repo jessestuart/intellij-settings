@@ -11,9 +11,8 @@
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*" />
+    <option name="FILE_MASK" value="*.groovy" />
     <recentFileMasks>
-      <mask>*.sql</mask>
       <mask>*.co</mask>
       <mask>*.cof</mask>
       <mask>*.coff</mask>
@@ -22,7 +21,6 @@
       <mask>*.gr</mask>
       <mask>*.gro</mask>
       <mask>*.groo</mask>
-      <mask>*.groov</mask>
       <mask>w</mask>
       <mask>wh</mask>
       <mask>whit</mask>
@@ -40,9 +38,11 @@
       <mask>white !important</mask>
       <mask>&amp;*</mask>
       <mask>&amp;</mask>
-      <mask>*.groovy</mask>
       <mask>*.</mask>
       <mask>*</mask>
+      <mask>*.g</mask>
+      <mask>*.groov</mask>
+      <mask>*.groovy</mask>
     </recentFileMasks>
   </component>
 </application>
