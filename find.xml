@@ -9,12 +9,8 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.groovy" />
     <recentFileMasks>
-      <mask>*gro</mask>
-      <mask>*groo</mask>
-      <mask>*groov</mask>
       <mask>*groovy</mask>
       <mask>*.g</mask>
-      <mask>*.groov</mask>
       <mask>a.less</mask>
       <mask>ap.less</mask>
       <mask>app.less</mask>
@@ -35,9 +31,13 @@
       <mask>*.coffe</mask>
       <mask>*.coffee</mask>
       <mask>*</mask>
+      <mask>*.groo</mask>
+      <mask>*.s</mask>
+      <mask>*.sq</mask>
+      <mask>*.sql</mask>
       <mask>*.</mask>
       <mask>*.gro</mask>
-      <mask>*.groo</mask>
+      <mask>*.groov</mask>
       <mask>*.groovy</mask>
     </recentFileMasks>
   </component>
