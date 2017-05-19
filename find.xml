@@ -5,10 +5,8 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*" />
+    <option name="FILE_MASK" value="*.coffee" />
     <recentFileMasks>
-      <mask>a.less</mask>
-      <mask>ap.less</mask>
       <mask>app.less</mask>
       <mask>appl.less</mask>
       <mask>appli.less</mask>
@@ -22,10 +20,6 @@
       <mask>*.les</mask>
       <mask>*.le</mask>
       <mask>*.l</mask>
-      <mask>*.co</mask>
-      <mask>*.coff</mask>
-      <mask>*.coffe</mask>
-      <mask>*.coffee</mask>
       <mask>*.groo</mask>
       <mask>*.s</mask>
       <mask>*.sq</mask>
@@ -33,10 +27,16 @@
       <mask>*.gro</mask>
       <mask>*.groov</mask>
       <mask>*.groovy</mask>
-      <mask>*.</mask>
       <mask>*groov</mask>
       <mask>*groovy</mask>
       <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.c</mask>
+      <mask>*.co</mask>
+      <mask>*.cof</mask>
+      <mask>*.coff</mask>
+      <mask>*.coffe</mask>
+      <mask>*.coffee</mask>
     </recentFileMasks>
   </component>
 </application>
