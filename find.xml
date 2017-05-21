@@ -11,31 +11,26 @@
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.groovy" />
+    <option name="FILE_MASK" value="*.less" />
     <recentFileMasks>
       <mask>applica.less</mask>
       <mask>applicat.less</mask>
       <mask>applicati.less</mask>
       <mask>applicatio.less</mask>
       <mask>application.less</mask>
-      <mask>*.less</mask>
-      <mask>*.les</mask>
       <mask>*.le</mask>
-      <mask>*.l</mask>
       <mask>*.s</mask>
       <mask>*.sq</mask>
       <mask>*.sql</mask>
       <mask>*groov</mask>
       <mask>*groovy</mask>
       <mask>*.groo</mask>
-      <mask>*</mask>
       <mask>*.c</mask>
       <mask>*.co</mask>
       <mask>*.cof</mask>
       <mask>*.coff</mask>
       <mask>*.coffe</mask>
       <mask>*.coffee</mask>
-      <mask>*.</mask>
       <mask>*.gs</mask>
       <mask>*.gsp</mask>
       <mask>*.g</mask>
@@ -43,6 +38,11 @@
       <mask>*.gro</mask>
       <mask>*.groov</mask>
       <mask>*.groovy</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.l</mask>
+      <mask>*.les</mask>
+      <mask>*.less</mask>
     </recentFileMasks>
   </component>
 </application>
