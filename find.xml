@@ -11,7 +11,7 @@
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.gsp" />
+    <option name="FILE_MASK" value="*" />
     <recentFileMasks>
       <mask>applica.less</mask>
       <mask>applicat.less</mask>
@@ -36,13 +36,13 @@
       <mask>*.gro</mask>
       <mask>*.groov</mask>
       <mask>*.groovy</mask>
-      <mask>*</mask>
       <mask>*.l</mask>
       <mask>*.les</mask>
       <mask>*.less</mask>
-      <mask>*.</mask>
       <mask>*.gs</mask>
       <mask>*.gsp</mask>
+      <mask>*.</mask>
+      <mask>*</mask>
     </recentFileMasks>
   </component>
 </application>
