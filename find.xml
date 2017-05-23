@@ -5,14 +5,8 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*" />
+    <option name="FILE_MASK" value="*Spec*" />
     <recentFileMasks>
-      <mask>*.less</mask>
-      <mask>*.gs</mask>
-      <mask>*.gsp</mask>
-      <mask>*A</mask>
-      <mask>*Al</mask>
-      <mask>*All</mask>
       <mask>A</mask>
       <mask>Al</mask>
       <mask>All</mask>
@@ -37,6 +31,12 @@
       <mask>*.\</mask>
       <mask>*.</mask>
       <mask>*</mask>
+      <mask>S*</mask>
+      <mask>Sp*</mask>
+      <mask>Spe*</mask>
+      <mask>Spec*</mask>
+      <mask>*&amp;Spec*</mask>
+      <mask>*Spec*</mask>
     </recentFileMasks>
   </component>
 </application>
