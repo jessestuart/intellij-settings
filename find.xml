@@ -7,11 +7,6 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*Spec*" />
     <recentFileMasks>
-      <mask>A</mask>
-      <mask>Al</mask>
-      <mask>All</mask>
-      <mask>Allo</mask>
-      <mask>Alloca</mask>
       <mask>Allocati</mask>
       <mask>Allocatio</mask>
       <mask>Allocation</mask>
@@ -30,12 +25,17 @@
       <mask>*.groovy</mask>
       <mask>*.\</mask>
       <mask>*.</mask>
-      <mask>*</mask>
       <mask>S*</mask>
       <mask>Sp*</mask>
       <mask>Spe*</mask>
       <mask>Spec*</mask>
       <mask>*&amp;Spec*</mask>
+      <mask>R</mask>
+      <mask>Re</mask>
+      <mask>Rest</mask>
+      <mask>*</mask>
+      <mask>*Spe</mask>
+      <mask>*Spec</mask>
       <mask>*Spec*</mask>
     </recentFileMasks>
   </component>
