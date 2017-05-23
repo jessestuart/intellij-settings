@@ -5,10 +5,8 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*Spec*" />
+    <option name="FILE_MASK" value="*" />
     <recentFileMasks>
-      <mask>Allocati</mask>
-      <mask>Allocatio</mask>
       <mask>Allocation</mask>
       <mask>Allocation*</mask>
       <mask>Allo*cation*</mask>
@@ -33,10 +31,12 @@
       <mask>R</mask>
       <mask>Re</mask>
       <mask>Rest</mask>
-      <mask>*</mask>
       <mask>*Spe</mask>
       <mask>*Spec</mask>
       <mask>*Spec*</mask>
+      <mask>***</mask>
+      <mask>**</mask>
+      <mask>*</mask>
     </recentFileMasks>
   </component>
 </application>
