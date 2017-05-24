@@ -5,13 +5,8 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*" />
+    <option name="FILE_MASK" value="*.groovy" />
     <recentFileMasks>
-      <mask>Spec*</mask>
-      <mask>*&amp;Spec*</mask>
-      <mask>R</mask>
-      <mask>Re</mask>
-      <mask>Rest</mask>
       <mask>*Spe</mask>
       <mask>*Spec</mask>
       <mask>*Spec*</mask>
@@ -37,6 +32,11 @@
       <mask>*ControllerIntSpec</mask>
       <mask>*ControllerIntSpec*</mask>
       <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.gro</mask>
+      <mask>*.groo</mask>
+      <mask>*.groov</mask>
+      <mask>*.groovy</mask>
     </recentFileMasks>
   </component>
 </application>
