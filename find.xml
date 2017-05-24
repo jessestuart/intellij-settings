@@ -5,27 +5,8 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*" />
+    <option name="FILE_MASK" value="*ControllerIntSpec*" />
     <recentFileMasks>
-      <mask>Allocation</mask>
-      <mask>Allocation*</mask>
-      <mask>Allo*cation*</mask>
-      <mask>*.g</mask>
-      <mask>*.gr</mask>
-      <mask>*.gro</mask>
-      <mask>*.c</mask>
-      <mask>*.co</mask>
-      <mask>*.cof</mask>
-      <mask>*.coff</mask>
-      <mask>*.coffe</mask>
-      <mask>*.coffee</mask>
-      <mask>*.groov</mask>
-      <mask>*.groovy</mask>
-      <mask>*.\</mask>
-      <mask>*.</mask>
-      <mask>S*</mask>
-      <mask>Sp*</mask>
-      <mask>Spe*</mask>
       <mask>Spec*</mask>
       <mask>*&amp;Spec*</mask>
       <mask>R</mask>
@@ -37,6 +18,25 @@
       <mask>***</mask>
       <mask>**</mask>
       <mask>*</mask>
+      <mask>C</mask>
+      <mask>Co</mask>
+      <mask>Con</mask>
+      <mask>Cont</mask>
+      <mask>Contr</mask>
+      <mask>Contro</mask>
+      <mask>Control</mask>
+      <mask>Controll</mask>
+      <mask>Controlle</mask>
+      <mask>Controller</mask>
+      <mask>ControllerI</mask>
+      <mask>ControllerIn</mask>
+      <mask>ControllerInt</mask>
+      <mask>ControllerIntS</mask>
+      <mask>ControllerIntSp</mask>
+      <mask>ControllerIntSpe</mask>
+      <mask>ControllerIntSpec</mask>
+      <mask>*ControllerIntSpec</mask>
+      <mask>*ControllerIntSpec*</mask>
     </recentFileMasks>
   </component>
 </application>
