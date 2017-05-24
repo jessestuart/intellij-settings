@@ -5,7 +5,7 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*ControllerIntSpec*" />
+    <option name="FILE_MASK" value="*" />
     <recentFileMasks>
       <mask>Spec*</mask>
       <mask>*&amp;Spec*</mask>
@@ -17,7 +17,6 @@
       <mask>*Spec*</mask>
       <mask>***</mask>
       <mask>**</mask>
-      <mask>*</mask>
       <mask>C</mask>
       <mask>Co</mask>
       <mask>Con</mask>
@@ -37,6 +36,7 @@
       <mask>ControllerIntSpec</mask>
       <mask>*ControllerIntSpec</mask>
       <mask>*ControllerIntSpec*</mask>
+      <mask>*</mask>
     </recentFileMasks>
   </component>
 </application>
