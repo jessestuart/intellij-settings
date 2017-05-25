@@ -9,13 +9,6 @@
     <option name="SEARCH_SCOPE" value="Changed Files" />
     <option name="FILE_MASK" value="*" />
     <recentFileMasks>
-      <mask>**</mask>
-      <mask>C</mask>
-      <mask>Co</mask>
-      <mask>Con</mask>
-      <mask>Cont</mask>
-      <mask>Contr</mask>
-      <mask>Contro</mask>
       <mask>Control</mask>
       <mask>Controll</mask>
       <mask>Controlle</mask>
@@ -37,6 +30,13 @@
       <mask>*.groo</mask>
       <mask>*.groov</mask>
       <mask>*.groovy</mask>
+      <mask>*.c</mask>
+      <mask>*.co</mask>
+      <mask>*.cofe</mask>
+      <mask>*.cof</mask>
+      <mask>*.coff</mask>
+      <mask>*.coffe</mask>
+      <mask>*.coffee</mask>
       <mask>*.</mask>
       <mask>*</mask>
     </recentFileMasks>
