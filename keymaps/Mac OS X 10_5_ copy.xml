@@ -1,4 +1,10 @@
 <keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="CloseAllEditorsButActive">
+    <keyboard-shortcut first-keystroke="meta alt w" />
+  </action>
+  <action id="Diff.ResolveConflict">
+    <mouse-shortcut keystroke="control alt button1" />
+  </action>
   <action id="EditorCloneCaretAbove">
     <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
@@ -9,6 +15,9 @@
     <keyboard-shortcut first-keystroke="meta close_bracket" />
     <mouse-shortcut keystroke="button5" />
   </action>
+  <action id="Git.ResolveConflicts">
+    <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="ctrl v" />
+  </action>
   <action id="Grails.ChangeSDK">
     <keyboard-shortcut first-keystroke="shift meta alt g" />
   </action>
@@ -17,6 +26,7 @@
   <action id="ObtainPermanentTicket">
     <keyboard-shortcut first-keystroke="ctrl alt l" />
   </action>
+  <action id="Run" />
   <action id="RunInspection">
     <keyboard-shortcut first-keystroke="meta alt i" />
   </action>
