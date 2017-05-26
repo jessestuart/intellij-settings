@@ -28,10 +28,7 @@
       <mask>*.grovo</mask>
       <mask>*.grov</mask>
       <mask>*.gr</mask>
-      <mask>*.gro</mask>
       <mask>*.groo</mask>
-      <mask>*.groov</mask>
-      <mask>*.groovy</mask>
       <mask>*.c</mask>
       <mask>*.co</mask>
       <mask>*.cofe</mask>
@@ -39,6 +36,9 @@
       <mask>*.coff</mask>
       <mask>*.coffe</mask>
       <mask>*.coffee</mask>
+      <mask>*.gro</mask>
+      <mask>*.groov</mask>
+      <mask>*.groovy</mask>
       <mask>*.</mask>
       <mask>*</mask>
     </recentFileMasks>
