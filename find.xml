@@ -9,7 +9,7 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="Changed Files" />
-    <option name="FILE_MASK" value="*" />
+    <option name="FILE_MASK" value="*.groovy" />
     <recentFileMasks>
       <mask>Control</mask>
       <mask>Controll</mask>
@@ -24,11 +24,9 @@
       <mask>ControllerIntSpec</mask>
       <mask>*ControllerIntSpec</mask>
       <mask>*ControllerIntSpec*</mask>
-      <mask>*.g</mask>
       <mask>*.grovo</mask>
       <mask>*.grov</mask>
       <mask>*.gr</mask>
-      <mask>*.groo</mask>
       <mask>*.c</mask>
       <mask>*.co</mask>
       <mask>*.cofe</mask>
@@ -36,11 +34,13 @@
       <mask>*.coff</mask>
       <mask>*.coffe</mask>
       <mask>*.coffee</mask>
-      <mask>*.gro</mask>
       <mask>*.groov</mask>
-      <mask>*.groovy</mask>
-      <mask>*.</mask>
       <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.g</mask>
+      <mask>*.gro</mask>
+      <mask>*.groo</mask>
+      <mask>*.groovy</mask>
     </recentFileMasks>
   </component>
 </application>
