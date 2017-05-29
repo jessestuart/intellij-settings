@@ -3,20 +3,12 @@
     <option name="customScope" value="Changed Files" />
     <option name="defaultScopeName" value="Changed Files" />
     <option name="localCaseSensitive" value="true" />
-    <option name="regularExpressions" value="true" />
     <option name="showResultsInSeparateView" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="Changed Files" />
-    <option name="FILE_MASK" value="*.groovy" />
+    <option name="FILE_MASK" value="Tessitura*.groovy" />
     <recentFileMasks>
-      <mask>Control</mask>
-      <mask>Controll</mask>
-      <mask>Controlle</mask>
-      <mask>Controller</mask>
-      <mask>ControllerI</mask>
-      <mask>ControllerIn</mask>
       <mask>ControllerInt</mask>
       <mask>ControllerIntS</mask>
       <mask>ControllerIntSp</mask>
@@ -41,6 +33,12 @@
       <mask>*.gro</mask>
       <mask>*.groo</mask>
       <mask>*.groovy</mask>
+      <mask>T*.groovy</mask>
+      <mask>Tess*.groovy</mask>
+      <mask>Tessit*.groovy</mask>
+      <mask>Tessitu*.groovy</mask>
+      <mask>Tessitur*.groovy</mask>
+      <mask>Tessitura*.groovy</mask>
     </recentFileMasks>
   </component>
 </application>
