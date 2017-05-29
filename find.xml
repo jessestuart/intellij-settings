@@ -7,7 +7,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="Changed Files" />
-    <option name="FILE_MASK" value="*.groovy" />
+    <option name="FILE_MASK" value="*" />
     <recentFileMasks>
       <mask>ControllerInt</mask>
       <mask>ControllerIntS</mask>
@@ -26,9 +26,6 @@
       <mask>*.coff</mask>
       <mask>*.coffe</mask>
       <mask>*.coffee</mask>
-      <mask>*.groov</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.g</mask>
       <mask>*.gro</mask>
       <mask>*.groo</mask>
@@ -39,6 +36,9 @@
       <mask>Tessitur*.groovy</mask>
       <mask>Tessitura*.groovy</mask>
       <mask>*.groovy</mask>
+      <mask>*.groov</mask>
+      <mask>*.</mask>
+      <mask>*</mask>
     </recentFileMasks>
   </component>
 </application>
