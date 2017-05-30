@@ -64,4 +64,7 @@
   <action id="ToggleDistractionFreeMode">
     <keyboard-shortcut first-keystroke="alt f" second-keystroke="alt m" />
   </action>
+  <action id="Vcs.ShowTabbedFileHistory">
+    <keyboard-shortcut first-keystroke="meta alt s" second-keystroke="meta alt h" />
+  </action>
 </keymap>
