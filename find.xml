@@ -7,7 +7,7 @@
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="Changed Files" />
-    <option name="FILE_MASK" value="*" />
+    <option name="FILE_MASK" value="*.coffee" />
     <recentFileMasks>
       <mask>ControllerInt</mask>
       <mask>ControllerIntS</mask>
@@ -18,13 +18,8 @@
       <mask>*ControllerIntSpec*</mask>
       <mask>*.grovo</mask>
       <mask>*.grov</mask>
-      <mask>*.c</mask>
-      <mask>*.co</mask>
       <mask>*.cofe</mask>
-      <mask>*.cof</mask>
       <mask>*.coff</mask>
-      <mask>*.coffe</mask>
-      <mask>*.coffee</mask>
       <mask>*.g</mask>
       <mask>T*.groovy</mask>
       <mask>Tess*.groovy</mask>
@@ -37,8 +32,13 @@
       <mask>*.groo</mask>
       <mask>*.groov</mask>
       <mask>*.groovy</mask>
-      <mask>*.</mask>
       <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.c</mask>
+      <mask>*.co</mask>
+      <mask>*.cof</mask>
+      <mask>*.coffe</mask>
+      <mask>*.coffee</mask>
     </recentFileMasks>
   </component>
 </application>
