@@ -9,9 +9,8 @@
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="Changed Files" />
-    <option name="FILE_MASK" value="*.coffee, *.gsp" />
+    <option name="FILE_MASK" value="*.groovy" />
     <recentFileMasks>
-      <mask>*Spec</mask>
       <mask>*Spec*</mask>
       <mask>s</mask>
       <mask>sp</mask>
@@ -20,16 +19,12 @@
       <mask>spektrix</mask>
       <mask>*spektrix</mask>
       <mask>*spektrix*</mask>
-      <mask>*.</mask>
       <mask>*.gr</mask>
-      <mask>*.gro</mask>
       <mask>*.groo</mask>
-      <mask>*.groovy</mask>
       <mask>*.groovy,</mask>
       <mask>*.groovy,</mask>
       <mask>*.groovy, *</mask>
       <mask>*.groovy, *.java</mask>
-      <mask>*</mask>
       <mask>*.cof</mask>
       <mask>*.coff</mask>
       <mask>*.coffe</mask>
@@ -41,6 +36,11 @@
       <mask>*.coffee, *.g</mask>
       <mask>*.coffee, *.gs</mask>
       <mask>*.coffee, *.gsp</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.gro</mask>
+      <mask>*.groov</mask>
+      <mask>*.groovy</mask>
     </recentFileMasks>
   </component>
 </application>
