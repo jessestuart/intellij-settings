@@ -5,21 +5,17 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.groovy" />
     <recentFileMasks>
       <mask>*.coffee, *.g</mask>
-      <mask>*.g</mask>
       <mask>Sp*.groovy</mask>
       <mask>S*.groovy</mask>
       <mask>Spektri*.groovy</mask>
       <mask>Spektrix*.groovy</mask>
-      <mask>*.gr</mask>
-      <mask>*.gro</mask>
       <mask>*.groo</mask>
-      <mask>*.groov</mask>
       <mask>*Locati*.groovy</mask>
       <mask>*Location*.groovy</mask>
       <mask>**.groovy</mask>
-      <mask>*.groovy</mask>
       <mask>*.j</mask>
       <mask>*.js</mask>
       <mask>*.coffee,</mask>
@@ -29,13 +25,18 @@
       <mask>*.coffee, *.gs</mask>
       <mask>*.coffee, *.gsp</mask>
       <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.c</mask>
       <mask>*.co</mask>
       <mask>*.cof</mask>
       <mask>*.coff</mask>
       <mask>*.coffe</mask>
       <mask>*.coffee</mask>
+      <mask>*.</mask>
+      <mask>*.g</mask>
+      <mask>*.gr</mask>
+      <mask>*.gro</mask>
+      <mask>*.groov</mask>
+      <mask>*.groovy</mask>
     </recentFileMasks>
   </component>
 </application>
