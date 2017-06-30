@@ -5,20 +5,11 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.less" />
     <recentFileMasks>
-      <mask>*Location*.groovy</mask>
-      <mask>**.groovy</mask>
-      <mask>*.j</mask>
-      <mask>*.js</mask>
-      <mask>*.coffee,</mask>
-      <mask>*.coffee,</mask>
-      <mask>*.coffee,</mask>
-      <mask>*.coffee, *</mask>
-      <mask>*.coffee, *.gs</mask>
       <mask>*.coffee, *.gsp</mask>
       <mask>*</mask>
       <mask>*.c</mask>
-      <mask>*.g</mask>
       <mask>*.gr</mask>
       <mask>*.gro</mask>
       <mask>*.groov</mask>
@@ -30,12 +21,22 @@
       <mask>.sq</mask>
       <mask>.sql</mask>
       <mask>*.sql</mask>
-      <mask>*.</mask>
       <mask>*.co</mask>
       <mask>*.cof</mask>
       <mask>*.coff</mask>
       <mask>*.coffe</mask>
       <mask>*.coffee</mask>
+      <mask>*.</mask>
+      <mask>*.g</mask>
+      <mask>*.gs</mask>
+      <mask>*.gsp</mask>
+      <mask>l</mask>
+      <mask>les</mask>
+      <mask>less</mask>
+      <mask>**.less</mask>
+      <mask>**less</mask>
+      <mask>*less</mask>
+      <mask>*.less</mask>
     </recentFileMasks>
   </component>
 </application>
