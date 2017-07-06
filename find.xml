@@ -5,12 +5,8 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*discover*" />
     <recentFileMasks>
-      <mask>*Test.groovy</mask>
-      <mask>.</mask>
-      <mask>.s</mask>
-      <mask>.sq</mask>
-      <mask>.sql</mask>
       <mask>*.sql</mask>
       <mask>*.gs</mask>
       <mask>*.gsp</mask>
@@ -36,6 +32,11 @@
       <mask>*.coffee</mask>
       <mask>*.</mask>
       <mask>*</mask>
+      <mask>*di</mask>
+      <mask>*dis</mask>
+      <mask>*discov</mask>
+      <mask>*discover</mask>
+      <mask>*discover*</mask>
     </recentFileMasks>
   </component>
 </application>
