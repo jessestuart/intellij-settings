@@ -3,6 +3,7 @@
   <inspection_tool class="ChangeToOperator" enabled="true" level="WEAK WARNING" enabled_by_default="true">
     <option name="withoutAdditionalParentheses" value="true" />
   </inspection_tool>
+  <inspection_tool class="CoffeeLintInspection" enabled="true" level="INFORMATION" enabled_by_default="true" />
   <inspection_tool class="CssMissingSemicolon" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="CssUnknownProperty" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="myCustomPropertiesEnabled" value="true" />

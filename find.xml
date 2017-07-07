@@ -1,14 +1,14 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="Directory '.../grails-app/assets/javascripts/apps - [platform]'" />
+    <option name="defaultScopeName" value="Directory '.../grails-app/assets/javascripts/apps - [platform]'" />
+    <option name="regularExpressions" value="true" />
     <option name="showResultsInSeparateView" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="SEARCH_SCOPE" value="Directory '.../grails-app/assets/javascripts/apps - [platform]'" />
+    <option name="FILE_MASK" value="*.coffee" />
     <recentFileMasks>
-      <mask>*.sql</mask>
-      <mask>*.gs</mask>
-      <mask>*.gsp</mask>
       <mask>l</mask>
       <mask>les</mask>
       <mask>less</mask>
@@ -25,17 +25,20 @@
       <mask>*.groo</mask>
       <mask>*.groovy</mask>
       <mask>*.co</mask>
-      <mask>*.cof</mask>
-      <mask>*.coff</mask>
-      <mask>*.coffe</mask>
-      <mask>*.coffee</mask>
       <mask>*.</mask>
-      <mask>*</mask>
       <mask>*di</mask>
       <mask>*dis</mask>
       <mask>*discov</mask>
       <mask>*discover</mask>
       <mask>*discover*</mask>
+      <mask>**</mask>
+      <mask>*</mask>
+      <mask>*.cofee</mask>
+      <mask>*.cofe</mask>
+      <mask>*.cof</mask>
+      <mask>*.coff</mask>
+      <mask>*.coffe</mask>
+      <mask>*.coffee</mask>
     </recentFileMasks>
   </component>
 </application>
