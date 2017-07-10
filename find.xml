@@ -7,21 +7,16 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.groovy" />
     <recentFileMasks>
-      <mask>**.less</mask>
       <mask>**less</mask>
       <mask>*less</mask>
       <mask>*.less</mask>
       <mask>***.co</mask>
       <mask>***.c</mask>
       <mask>***</mask>
-      <mask>*.g</mask>
       <mask>*.gr</mask>
-      <mask>*.gro</mask>
-      <mask>*.groo</mask>
-      <mask>*.groovy</mask>
       <mask>*.co</mask>
-      <mask>*.</mask>
       <mask>*di</mask>
       <mask>*dis</mask>
       <mask>*discov</mask>
@@ -38,6 +33,12 @@
       <mask>*.s</mask>
       <mask>*.sq</mask>
       <mask>*.sql</mask>
+      <mask>*.</mask>
+      <mask>*.g</mask>
+      <mask>*.gro</mask>
+      <mask>*.groo</mask>
+      <mask>*.groov</mask>
+      <mask>*.groovy</mask>
     </recentFileMasks>
   </component>
 </application>
