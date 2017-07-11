@@ -6,36 +6,36 @@
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>**less</mask>
-      <mask>*less</mask>
-      <mask>*.less</mask>
-      <mask>***.co</mask>
-      <mask>***.c</mask>
-      <mask>***</mask>
-      <mask>*.gr</mask>
-      <mask>*.co</mask>
-      <mask>*di</mask>
       <mask>*dis</mask>
       <mask>*discov</mask>
       <mask>*discover</mask>
       <mask>*discover*</mask>
-      <mask>**</mask>
-      <mask>*</mask>
       <mask>*.cofee</mask>
       <mask>*.cofe</mask>
-      <mask>*.cof</mask>
-      <mask>*.coff</mask>
-      <mask>*.coffe</mask>
-      <mask>*.coffee</mask>
       <mask>*.s</mask>
       <mask>*.sq</mask>
       <mask>*.sql</mask>
-      <mask>*.</mask>
       <mask>*.g</mask>
       <mask>*.gro</mask>
       <mask>*.groo</mask>
       <mask>*.groov</mask>
       <mask>*.groovy</mask>
+      <mask>*.cf0</mask>
+      <mask>*.cf</mask>
+      <mask>*.</mask>
+      <mask>*.c</mask>
+      <mask>*.co</mask>
+      <mask>*.cof</mask>
+      <mask>*.coff</mask>
+      <mask>*.coffe</mask>
+      <mask>*.coffee</mask>
+      <mask>n</mask>
+      <mask>ng</mask>
+      <mask>ng-</mask>
+      <mask>ng-sr</mask>
+      <mask>ng-src</mask>
+      <mask>**</mask>
+      <mask>*</mask>
     </recentFileMasks>
   </component>
 </application>
