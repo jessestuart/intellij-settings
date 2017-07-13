@@ -7,15 +7,10 @@
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.coffee, *.gsp" />
+    <option name="FILE_MASK" value="*.groovy" />
     <recentFileMasks>
-      <mask>n</mask>
-      <mask>ng</mask>
-      <mask>ng-</mask>
-      <mask>ng-sr</mask>
       <mask>ng-src</mask>
       <mask>**</mask>
-      <mask>*.groovy</mask>
       <mask>*.groovy,</mask>
       <mask>*.groovy, gsp</mask>
       <mask>*.groovy, gs</mask>
@@ -39,6 +34,11 @@
       <mask>*.coffee</mask>
       <mask>*.coffee,</mask>
       <mask>*.coffee, *.gsp</mask>
+      <mask>g</mask>
+      <mask>groov</mask>
+      <mask>groovy</mask>
+      <mask>*groovy</mask>
+      <mask>*.groovy</mask>
     </recentFileMasks>
   </component>
 </application>
