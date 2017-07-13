@@ -3,44 +3,42 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localRegularExpressions" value="true" />
-    <option name="regularExpressions" value="true" />
     <option name="showResultsInSeparateView" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.groovy" />
+    <option name="FILE_MASK" value="*.coffee" />
     <recentFileMasks>
-      <mask>*dis</mask>
-      <mask>*discov</mask>
-      <mask>*discover</mask>
-      <mask>*discover*</mask>
-      <mask>*.cofee</mask>
-      <mask>*.cofe</mask>
-      <mask>*.s</mask>
-      <mask>*.sq</mask>
-      <mask>*.sql</mask>
-      <mask>*.g</mask>
-      <mask>*.gro</mask>
-      <mask>*.groo</mask>
-      <mask>*.groov</mask>
-      <mask>*.cf0</mask>
-      <mask>*.cf</mask>
-      <mask>*.</mask>
-      <mask>*.c</mask>
       <mask>*.co</mask>
       <mask>*.cof</mask>
-      <mask>*.coff</mask>
-      <mask>*.coffe</mask>
-      <mask>*.coffee</mask>
       <mask>n</mask>
       <mask>ng</mask>
       <mask>ng-</mask>
       <mask>ng-sr</mask>
       <mask>ng-src</mask>
       <mask>**</mask>
-      <mask>*</mask>
       <mask>*.groovy</mask>
+      <mask>*.groovy,</mask>
+      <mask>*.groovy, gsp</mask>
+      <mask>*.groovy, gs</mask>
+      <mask>*.groovy,</mask>
+      <mask>*.groovy, **.g</mask>
+      <mask>*.groovy, *gs</mask>
+      <mask>*.groovy, *gsp</mask>
+      <mask>*.groovy, *gsp,</mask>
+      <mask>*.groovy, *</mask>
+      <mask>*.groovy, *.gsp</mask>
+      <mask>*.groovy, *.gsp,</mask>
+      <mask>*.groovy, *.gsp, **</mask>
+      <mask>*.groovy, *.gsp, *.</mask>
+      <mask>*.groovy, *.gsp, *.c</mask>
+      <mask>*.groovy, *.gsp, *.co</mask>
+      <mask>*.groovy, *.gsp, *.coff</mask>
+      <mask>*.groovy, *.gsp, *.coffee</mask>
+      <mask>*</mask>
+      <mask>*.coff</mask>
+      <mask>*.coffe</mask>
+      <mask>*.coffee</mask>
     </recentFileMasks>
   </component>
 </application>
