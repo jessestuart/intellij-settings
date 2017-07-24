@@ -6,7 +6,6 @@
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>ng-src</mask>
       <mask>**</mask>
       <mask>*.groovy,</mask>
       <mask>*.groovy, gsp</mask>
@@ -36,6 +35,7 @@
       <mask>groovy</mask>
       <mask>*groovy</mask>
       <mask>*.groovy</mask>
+      <mask>*.gsp</mask>
     </recentFileMasks>
   </component>
 </application>
