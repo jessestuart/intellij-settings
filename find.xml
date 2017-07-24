@@ -2,16 +2,11 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="regularExpressions" value="true" />
     <option name="showResultsInSeparateView" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.groovy" />
+    <option name="FILE_MASK" value="*.coffee" />
     <recentFileMasks>
-      <mask>*.groovy,</mask>
-      <mask>*.groovy, **.g</mask>
-      <mask>*.groovy, *gs</mask>
       <mask>*.groovy, *gsp</mask>
       <mask>*.groovy, *gsp,</mask>
       <mask>*.groovy, *</mask>
@@ -24,9 +19,6 @@
       <mask>*.groovy, *.gsp, *.coff</mask>
       <mask>*.groovy, *.gsp, *.coffee</mask>
       <mask>*</mask>
-      <mask>*.coff</mask>
-      <mask>*.coffe</mask>
-      <mask>*.coffee</mask>
       <mask>*.coffee,</mask>
       <mask>*.coffee, *.gsp</mask>
       <mask>g</mask>
@@ -39,6 +31,12 @@
       <mask>*.gro</mask>
       <mask>*.groov</mask>
       <mask>*.groovy</mask>
+      <mask>*.c</mask>
+      <mask>*.co</mask>
+      <mask>*.cof</mask>
+      <mask>*.coff</mask>
+      <mask>*.coffe</mask>
+      <mask>*.coffee</mask>
     </recentFileMasks>
   </component>
 </application>
