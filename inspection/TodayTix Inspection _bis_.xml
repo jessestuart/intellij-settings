@@ -1,9 +1,32 @@
 <profile version="1.0">
   <option name="myName" value="TodayTix Inspection (bis)" />
+  <inspection_tool class="AbstractClassWithPublicConstructor" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="AbstractClassWithoutAbstractMethod" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="AssertWithinFinallyBlock" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="AssignmentInConditional" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="BigDecimalInstantiation" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="BitwiseOperatorInConditional" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="BooleanGetBoolean" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="BooleanMethodReturnsNull" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="BrokenNullCheck" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="BrokenOddnessCheck" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="BuilderMethodWithSideEffects" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="ChangeToOperator" enabled="true" level="WEAK WARNING" enabled_by_default="true">
     <option name="withoutAdditionalParentheses" value="true" />
   </inspection_tool>
+  <inspection_tool class="ClassForName" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="ClassJavadoc" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="CloneableWithoutClone" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="CloseWithoutCloseable" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="CoffeeLintInspection" enabled="true" level="INFORMATION" enabled_by_default="true" />
+  <inspection_tool class="CompareToWithoutComparable" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="ComparisonOfTwoConstants" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="ComparisonWithSelf" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="ConstantAssertExpression" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="ConstantIfExpression" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="ConstantTernaryExpression" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="ConstantsOnlyInterface" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="CouldBeElvis" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="CssMissingSemicolon" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="CssUnknownProperty" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="myCustomPropertiesEnabled" value="true" />
@@ -16,9 +39,29 @@
       </value>
     </option>
   </inspection_tool>
+  <inspection_tool class="DeadCode" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="DoubleNegative" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="DuplicateCaseStatement" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="DuplicateMapKey" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="DuplicateSetValue" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="Duplicates" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="ES6ConvertRequireIntoImport" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="ESLintInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+  <inspection_tool class="ElseBlockBraces" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="EmptyElseBlock" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="EmptyForStatement" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="EmptyIfStatement" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="EmptyInstanceInitializer" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="EmptyMethodInAbstractClass" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="EmptyStaticInitializer" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="EmptySwitchStatement" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="EmptyWhileStatement" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="EqualsAndHashCode" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="EqualsOverloaded" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="ExplicitGarbageCollection" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="FinalClassWithProtectedMember" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="ForLoopShouldBeWhileLoop" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="ForStatementBraces" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="GrMethodMayBeStatic" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="GrUnnecessarySemicolon" enabled="true" level="INFORMATION" enabled_by_default="true" />
   <inspection_tool class="GroovyAssignabilityCheck" enabled="true" level="INFORMATION" enabled_by_default="true" />
@@ -50,6 +93,9 @@
   <inspection_tool class="GroovySwitchStatementWithNoDefault" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="GroovyUnnecessaryReturn" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="GroovyVariableCanBeFinal" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+  <inspection_tool class="HardCodedWindowsFileSeparator" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="HardCodedWindowsRootDirectory" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="HashtableIsObsolete" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="HtmlUnknownTag" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="myValues">
       <value>
@@ -66,25 +112,52 @@
     </option>
     <option name="myCustomValuesEnabled" value="true" />
   </inspection_tool>
+  <inspection_tool class="IfStatementBraces" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="IfStatementCouldBeTernary" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+  <inspection_tool class="ImplementationAsType" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="InconsistentLineSeparators" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="Instanceof" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="IntegerGetInteger" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="JavaLangImport" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="JavaStylePropertiesInvocation" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+  <inspection_tool class="JavadocHtmlLint" enabled="true" level="ERROR" enabled_by_default="true" />
+  <inspection_tool class="LocaleSetDefault" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="LongLine" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+  <inspection_tool class="LongLiteralWithLowerCaseL" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="MultipleUnaryOperators" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="NestedForLoop" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="NoTabCharacter" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="OnDemandImport" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="ParameterReassignment" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="PrivateFieldCouldBeFinal" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="ProblematicWhitespace" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="PublicInstanceField" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="RandomDoubleCoercedToZero" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="RedundantSuppression" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="RemoveAllOnSelf" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="ReturnsNullInsteadOfEmptyArray" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="ReturnsNullInsteadOfEmptyCollection" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="SamePackageImport" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="SimpleDateFormatMissingLocale" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="SingleClassImport" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="SpellCheckingInspection" enabled="false" level="TYPO" enabled_by_default="false">
     <option name="processCode" value="true" />
     <option name="processLiterals" value="true" />
     <option name="processComments" value="true" />
   </inspection_tool>
+  <inspection_tool class="StatelessSingleton" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="StaticImport" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="Stylelint" enabled="false" level="WARNING" enabled_by_default="false" />
-  <inspection_tool class="UnusedImport" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="TernaryCouldBeElvis" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="ThrowExceptionFromFinallyBlock" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="ToStringReturnsNull" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="UnnecessaryFullyQualifiedName" enabled="true" level="WARNING" enabled_by_default="true">
+    <option name="m_ignoreJavadoc" value="false" />
+  </inspection_tool>
+  <inspection_tool class="VectorIsObsolete" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="W3CssValidation" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="myCssVersion" value="css3" />
     <option name="myIgnoreVendorSpecificProperties" value="false" />
   </inspection_tool>
+  <inspection_tool class="WhileStatementBraces" enabled="true" level="WARNING" enabled_by_default="true" />
 </profile>
