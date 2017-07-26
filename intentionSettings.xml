@@ -1,0 +1,8 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="EJB/Add EJB interceptor" />
+    <ignoreAction name="EJB/Add Method to EJB Class" />
+    <ignoreAction name="EJB/Add Method to EJB Interface" />
+    <ignoreAction name="EJB/Interceptor Bindings" />
+  </component>
+</application>

@@ -1,5 +1,5 @@
 <profile version="1.0">
-  <option name="myName" value="TodayTix Inspection (bis)" />
+  <option name="myName" value="TodayTix Inspection (20170726)" />
   <inspection_tool class="AbstractClassWithPublicConstructor" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="AbstractClassWithoutAbstractMethod" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="AddEmptyString" enabled="true" level="WARNING" enabled_by_default="true" />
@@ -56,6 +56,7 @@
   <inspection_tool class="DeadCode" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="DoubleNegative" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="DuplicateCaseStatement" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="DuplicateImport" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="DuplicateMapKey" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="DuplicateSetValue" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="Duplicates" enabled="true" level="WARNING" enabled_by_default="true" />
@@ -78,7 +79,6 @@
   <inspection_tool class="ForLoopShouldBeWhileLoop" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="ForStatementBraces" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="GetterMethodCouldBeProperty" enabled="true" level="WARNING" enabled_by_default="true" />
-  <inspection_tool class="GrMethodMayBeStatic" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="GrUnnecessarySemicolon" enabled="true" level="INFORMATION" enabled_by_default="true" />
   <inspection_tool class="GrailsDomainHasEquals" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="GrailsDomainHasToString" enabled="true" level="WARNING" enabled_by_default="true" />
@@ -90,7 +90,6 @@
   <inspection_tool class="GrailsPublicControllerMethod" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="GrailsServletContextReference" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="GrailsStatelessService" enabled="true" level="WARNING" enabled_by_default="true" />
-  <inspection_tool class="GroovyAssignabilityCheck" enabled="true" level="INFORMATION" enabled_by_default="true" />
   <inspection_tool class="GroovyAssignmentCanBeOperatorAssignment" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignoreLazyOperators" value="true" />
     <option name="ignoreObscureOperators" value="false" />
@@ -147,6 +146,8 @@
   <inspection_tool class="IllegalString" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="IllegalSubclass" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="ImplementationAsType" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="ImportFromSamePackage" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="ImportFromSunPackages" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="InconsistentLineSeparators" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="Instanceof" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="IntegerGetInteger" enabled="true" level="WARNING" enabled_by_default="true" />
@@ -160,12 +161,14 @@
   <inspection_tool class="LoggingSwallowsStacktrace" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="LongLine" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="LongLiteralWithLowerCaseL" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="MisorderedStaticImports" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="MissingBlankLineAfterImports" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="MissingBlankLineAfterPackage" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="MultipleLoggers" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="MultipleUnaryOperators" enabled="true" level="WARNING" enabled_by_default="true" />
-  <inspection_tool class="NestedForLoop" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="NestedForLoop" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
   <inspection_tool class="NoTabCharacter" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="NoWildcardImports" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="OnDemandImport" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="ParameterReassignment" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="PrintStackTrace" enabled="true" level="WARNING" enabled_by_default="true" />
@@ -180,6 +183,7 @@
   <inspection_tool class="RequiredString" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="ReturnsNullInsteadOfEmptyArray" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="ReturnsNullInsteadOfEmptyCollection" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="SSBasedInspection" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="SamePackageImport" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="SimpleDateFormatMissingLocale" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="SingleClassImport" enabled="true" level="WARNING" enabled_by_default="true" />
@@ -235,6 +239,7 @@
   </inspection_tool>
   <inspection_tool class="UnnecessaryGString" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="UnnecessaryGetter" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="UnnecessaryGroovyImport" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="UnnecessaryIfStatement" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="UnnecessaryInstanceOfCheck" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="UnnecessaryInstantiationToGetClass" enabled="true" level="WARNING" enabled_by_default="true" />
