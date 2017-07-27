@@ -161,7 +161,6 @@
   <inspection_tool class="LoggingSwallowsStacktrace" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="LongLine" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="LongLiteralWithLowerCaseL" enabled="true" level="WARNING" enabled_by_default="true" />
-  <inspection_tool class="MisorderedStaticImports" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="MissingBlankLineAfterImports" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="MissingBlankLineAfterPackage" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="MultipleLoggers" enabled="true" level="WARNING" enabled_by_default="true" />
