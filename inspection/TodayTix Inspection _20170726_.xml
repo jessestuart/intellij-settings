@@ -149,7 +149,6 @@
   <inspection_tool class="ImportFromSamePackage" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="ImportFromSunPackages" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="InconsistentLineSeparators" enabled="true" level="WARNING" enabled_by_default="true" />
-  <inspection_tool class="Instanceof" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="IntegerGetInteger" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="JavaLangImport" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="JavaStylePropertiesInvocation" enabled="false" level="WEAK WARNING" enabled_by_default="false" />

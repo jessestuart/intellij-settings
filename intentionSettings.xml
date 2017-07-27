@@ -4,5 +4,6 @@
     <ignoreAction name="EJB/Add Method to EJB Class" />
     <ignoreAction name="EJB/Add Method to EJB Interface" />
     <ignoreAction name="EJB/Interceptor Bindings" />
+    <ignoreAction name="Groovy/Declaration/Groovy Introduce local variable" />
   </component>
 </application>
