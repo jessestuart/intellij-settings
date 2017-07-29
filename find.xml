@@ -7,10 +7,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="Changed Files" />
-    <option name="FILE_MASK" value="*.coffee" />
     <recentFileMasks>
-      <mask>*.groovy, *</mask>
-      <mask>*.groovy, *.gsp</mask>
       <mask>*.groovy, *.gsp,</mask>
       <mask>*.groovy, *.gsp, **</mask>
       <mask>*.groovy, *.gsp, *.</mask>
@@ -18,7 +15,6 @@
       <mask>*.groovy, *.gsp, *.co</mask>
       <mask>*.groovy, *.gsp, *.coff</mask>
       <mask>*.groovy, *.gsp, *.coffee</mask>
-      <mask>*</mask>
       <mask>*.coffee,</mask>
       <mask>*.coffee, *.gsp</mask>
       <mask>g</mask>
@@ -33,12 +29,15 @@
       <mask>*.groo</mask>
       <mask>*.groov</mask>
       <mask>*.groovy</mask>
-      <mask>*.</mask>
       <mask>*.co</mask>
       <mask>*.cofe</mask>
       <mask>*.cof</mask>
       <mask>*.coffe</mask>
       <mask>*.coffee</mask>
+      <mask>*.</mask>
+      <mask>*Se</mask>
+      <mask>*S</mask>
+      <mask>*</mask>
     </recentFileMasks>
   </component>
 </application>
