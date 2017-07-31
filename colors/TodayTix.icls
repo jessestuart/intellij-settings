@@ -4,13 +4,13 @@
     <property name="created">2017-03-08T18:27:18</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2016.3.4.0.0</property>
-    <property name="modified">2017-07-26T03:15:59</property>
+    <property name="modified">2017-07-31T04:07:57</property>
     <property name="originalScheme">JS</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
   <font>
     <option name="EDITOR_FONT_NAME" value="Operator Mono" />
-    <option name="EDITOR_FONT_SIZE" value="13" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Inconsolata-dz for Powerline" />
@@ -18,7 +18,6 @@
   </font>
   <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
-  <option name="CONSOLE_FONT_SIZE" value="12" />
   <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <attributes>
     <option name="Bad character">
