@@ -79,6 +79,7 @@
   <inspection_tool class="ForLoopShouldBeWhileLoop" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="ForStatementBraces" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="GetterMethodCouldBeProperty" enabled="true" level="WARNING" enabled_by_default="true" />
+  <inspection_tool class="GrMethodMayBeStatic" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="GrUnnecessarySemicolon" enabled="true" level="INFORMATION" enabled_by_default="true" />
   <inspection_tool class="GrailsDomainHasEquals" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="GrailsDomainHasToString" enabled="true" level="WARNING" enabled_by_default="true" />
