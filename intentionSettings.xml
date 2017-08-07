@@ -6,5 +6,6 @@
     <ignoreAction name="EJB/Interceptor Bindings" />
     <ignoreAction name="Groovy/Declaration/Groovy Introduce local variable" />
     <ignoreAction name="Groovy/Expression conversions/Convert Groovy native map to class instances" />
+    <ignoreAction name="Groovy/Groovy-style/Change Java-style accessor invocation to Groovy-style property reference" />
   </component>
 </application>
