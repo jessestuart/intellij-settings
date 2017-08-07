@@ -28,7 +28,7 @@
   <inspection_tool class="CloneableWithoutClone" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="CloseWithoutCloseable" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="ClosureStatementOnOpeningLineOfMultipleLineClosure" enabled="true" level="WARNING" enabled_by_default="true" />
-  <inspection_tool class="CoffeeLintInspection" enabled="true" level="INFORMATION" enabled_by_default="true" />
+  <inspection_tool class="CoffeeLintInspection" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="CompareToWithoutComparable" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="ComparisonOfTwoConstants" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="ComparisonWithSelf" enabled="true" level="WARNING" enabled_by_default="true" />
