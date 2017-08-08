@@ -6,9 +6,6 @@
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.cofe</mask>
-      <mask>*Se</mask>
-      <mask>*S</mask>
       <mask>*co</mask>
       <mask>*c</mask>
       <mask>*.g</mask>
@@ -36,6 +33,9 @@
       <mask>*.cof</mask>
       <mask>*.coffe</mask>
       <mask>*.coffee</mask>
+      <mask>*.l</mask>
+      <mask>*.les</mask>
+      <mask>*.less</mask>
     </recentFileMasks>
   </component>
 </application>
