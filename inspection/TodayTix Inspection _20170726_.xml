@@ -238,7 +238,6 @@
     <option name="ignoreInModuleStatements" value="true" />
   </inspection_tool>
   <inspection_tool class="UnnecessaryGString" enabled="true" level="WARNING" enabled_by_default="true" />
-  <inspection_tool class="UnnecessaryGetter" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="UnnecessaryGroovyImport" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="UnnecessaryIfStatement" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="UnnecessaryInstanceOfCheck" enabled="true" level="WARNING" enabled_by_default="true" />
