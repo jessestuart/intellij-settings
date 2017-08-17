@@ -1,0 +1,14 @@
+<application>
+  <component name="DockerRegistry">
+    <DockerRegistry email="jdstuart@icloud.com">
+      <option name="address" value="registry.hub.docker.com" />
+      <option name="name" value="Docker Hub" />
+      <option name="username" value="jessestuart" />
+    </DockerRegistry>
+    <DockerRegistry email="jdstuart@icloud.com">
+      <option name="address" value="quay.io" />
+      <option name="name" value="Quay" />
+      <option name="username" value="jessestuart" />
+    </DockerRegistry>
+  </component>
+</application>
