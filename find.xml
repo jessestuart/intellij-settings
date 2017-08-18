@@ -7,7 +7,6 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.groovy" />
     <recentFileMasks>
       <mask>*.groov</mask>
       <mask>*.gsp</mask>
@@ -18,27 +17,27 @@
       <mask>*Spec</mask>
       <mask>*Spec**</mask>
       <mask>*Spec*</mask>
-      <mask>*</mask>
       <mask>*g</mask>
       <mask>*gro</mask>
       <mask>*groo</mask>
       <mask>*groov</mask>
       <mask>*groovy</mask>
       <mask>*.c</mask>
-      <mask>*.co</mask>
       <mask>*.cof</mask>
-      <mask>*.coffe</mask>
-      <mask>*.coffee</mask>
       <mask>*.l</mask>
       <mask>*.les</mask>
       <mask>*.less</mask>
-      <mask>*.</mask>
       <mask>*.xm</mask>
       <mask>*.xml</mask>
       <mask>*.g</mask>
       <mask>*.gro</mask>
       <mask>*.groo</mask>
       <mask>*.groovy</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.co</mask>
+      <mask>*.coffe</mask>
+      <mask>*.coffee</mask>
     </recentFileMasks>
   </component>
 </application>
