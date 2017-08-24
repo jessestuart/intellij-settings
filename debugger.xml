@@ -73,7 +73,7 @@
     <debuggers>
       <debugger id="javascript">
         <configuration>
-          <custom-object-presentation />
+          <custom-object-presentation enabled="true" />
         </configuration>
       </debugger>
       <debugger id="kotlin_debugger">
