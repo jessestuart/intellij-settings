@@ -9,9 +9,6 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.coffee" />
     <recentFileMasks>
-      <mask>*.l</mask>
-      <mask>*.les</mask>
-      <mask>*.less</mask>
       <mask>*.xm</mask>
       <mask>*.xml</mask>
       <mask>*</mask>
@@ -38,6 +35,9 @@
       <mask>*.gsp, *.coff</mask>
       <mask>*.gsp, *.coffe</mask>
       <mask>*.gsp, *.coffee</mask>
+      <mask>*A.coffee</mask>
+      <mask>*Ap.coffee</mask>
+      <mask>*App.coffee</mask>
       <mask>*.coffee</mask>
     </recentFileMasks>
   </component>
