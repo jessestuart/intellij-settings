@@ -4,4 +4,14 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
+  <template name="_gr" value="_.get(response, 'data.data')" description="_.get(response, 'data.data')" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="_.gs" value="_.get(response, 'data.success')" description="_.get(response, 'data.success')" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
 </templateSet>
