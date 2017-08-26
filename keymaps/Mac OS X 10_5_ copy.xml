@@ -29,6 +29,9 @@
   <action id="Git.ResolveConflicts">
     <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="ctrl v" />
   </action>
+  <action id="Github.Open.In.Browser">
+    <keyboard-shortcut first-keystroke="shift ctrl meta alt o" second-keystroke="g" />
+  </action>
   <action id="Grails.ChangeSDK">
     <keyboard-shortcut first-keystroke="shift meta alt g" />
   </action>
