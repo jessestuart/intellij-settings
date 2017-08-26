@@ -5,10 +5,8 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.coffee" />
+    <option name="FILE_MASK" value="*.gsp, *.coffee" />
     <recentFileMasks>
-      <mask>*.xm</mask>
-      <mask>*.xml</mask>
       <mask>*</mask>
       <mask>*.coffe</mask>
       <mask>*.c</mask>
@@ -19,24 +17,26 @@
       <mask>*.groo</mask>
       <mask>*.groov</mask>
       <mask>*.groovy</mask>
-      <mask>*.</mask>
       <mask>*.g</mask>
-      <mask>*.gs</mask>
-      <mask>*.gsp</mask>
-      <mask>*.gsp,</mask>
-      <mask>*.gsp,</mask>
-      <mask>*.gsp, *</mask>
       <mask>*.gsp, *.</mask>
       <mask>*.gsp, *.c</mask>
       <mask>*.gsp, *.co</mask>
       <mask>*.gsp, *.cof</mask>
       <mask>*.gsp, *.coff</mask>
       <mask>*.gsp, *.coffe</mask>
-      <mask>*.gsp, *.coffee</mask>
       <mask>*A.coffee</mask>
       <mask>*Ap.coffee</mask>
       <mask>*App.coffee</mask>
       <mask>*.coffee</mask>
+      <mask>*.</mask>
+      <mask>*.gs</mask>
+      <mask>*.gsp</mask>
+      <mask>*.gsp,</mask>
+      <mask>*.gsp,</mask>
+      <mask>*.gsp,</mask>
+      <mask>*.gsp, **</mask>
+      <mask>*.gsp, *</mask>
+      <mask>*.gsp, *.coffee</mask>
     </recentFileMasks>
   </component>
 </application>
