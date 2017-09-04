@@ -2,17 +2,15 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="localRegularExpressions" value="true" />
+    <option name="regularExpressions" value="true" />
     <option name="showResultsInSeparateView" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.js" />
+    <option name="FILE_MASK" value="*.coffee" />
     <recentFileMasks>
-      <mask>*A.coffee</mask>
-      <mask>*Ap.coffee</mask>
-      <mask>*App.coffee</mask>
-      <mask>*.coffee</mask>
-      <mask>*.gs</mask>
-      <mask>*.gsp</mask>
       <mask>*.gsp,</mask>
       <mask>*.gsp,</mask>
       <mask>*.gsp,</mask>
@@ -27,7 +25,6 @@
       <mask>*.gsp, *.coffee, *.</mask>
       <mask>*.gsp, *.coffee, *.j</mask>
       <mask>*.gsp, *.coffee, *.js</mask>
-      <mask>*.</mask>
       <mask>*.js.</mask>
       <mask>*.js.e</mask>
       <mask>*.js.es</mask>
@@ -37,6 +34,13 @@
       <mask>*</mask>
       <mask>*.j</mask>
       <mask>*.js</mask>
+      <mask>*.</mask>
+      <mask>*.co</mask>
+      <mask>*.cof</mask>
+      <mask>*.coff</mask>
+      <mask>*.coffe</mask>
+      <mask>*.coffeee</mask>
+      <mask>*.coffee</mask>
     </recentFileMasks>
   </component>
 </application>
