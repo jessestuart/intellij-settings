@@ -5,6 +5,7 @@
     <option name="ALIGN_NAMED_ARGS_IN_MAP" value="false" />
     <option name="USE_FQ_CLASS_NAMES_IN_JAVADOC" value="false" />
     <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="99" />
+    <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="99" />
     <option name="IMPORT_LAYOUT_TABLE">
       <value>
         <package name="com.todaytix" withSubpackages="true" static="false" />
