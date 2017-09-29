@@ -7,14 +7,8 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
-    <option name="FILE_MASK" value="*.es6.js, *.coffee" />
+    <option name="FILE_MASK" value="*.js.es6, *.coffee" />
     <recentFileMasks>
-      <mask>*.ro</mask>
-      <mask>*.r</mask>
-      <mask>*.g</mask>
-      <mask>*.gr</mask>
-      <mask>*.gro</mask>
-      <mask>*.groo</mask>
       <mask>*.groov</mask>
       <mask>*.groovy</mask>
       <mask>*.js</mask>
@@ -39,6 +33,12 @@
       <mask>*.es6.js, *.coff</mask>
       <mask>*.es6.js, *.coffe</mask>
       <mask>*.es6.js, *.coffee</mask>
+      <mask>*.j, *.coffee</mask>
+      <mask>*.js, *.coffee</mask>
+      <mask>*.js., *.coffee</mask>
+      <mask>*.js.e, *.coffee</mask>
+      <mask>*.js.es, *.coffee</mask>
+      <mask>*.js.es6, *.coffee</mask>
     </recentFileMasks>
   </component>
 </application>
