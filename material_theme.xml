@@ -1,0 +1,8 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="selectedTheme" value="DARKER" />
+    <option name="isContrastMode" value="true" />
+    <option name="useMaterialIcons" value="false" />
+    <option name="defaultBackground" value="" />
+  </component>
+</application>
