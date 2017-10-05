@@ -2,7 +2,9 @@
   <component name="MaterialThemeConfig">
     <option name="selectedTheme" value="DARKER" />
     <option name="isContrastMode" value="true" />
+    <option name="isMaterialDesign" value="false" />
     <option name="useMaterialIcons" value="false" />
+    <option name="isMaterialTheme" value="false" />
     <option name="defaultBackground" value="" />
   </component>
 </application>
