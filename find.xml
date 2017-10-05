@@ -6,7 +6,6 @@
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="Changed Files" />
     <recentFileMasks>
-      <mask>**.</mask>
       <mask>**</mask>
       <mask>*.</mask>
       <mask>*.g</mask>
@@ -36,6 +35,7 @@
       <mask>*.groovy, *.gsp, *.js, *.cof</mask>
       <mask>*.groovy, *.gsp, *.js, *.coffe</mask>
       <mask>*.groovy, *.gsp, *.js, *.coffee</mask>
+      <mask>*.coffee</mask>
     </recentFileMasks>
   </component>
 </application>
