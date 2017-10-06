@@ -1,13 +1,13 @@
 <application>
   <component name="ParameterNameHintsSettings">
     <blacklists>
-      <blacklist language="Groovy" />
+      <blacklist language="TypeScript" />
       <blacklist language="Java" />
       <blacklist language="Groovy">
         <added pattern="org.apache.commons.logging.Log.*" />
         <added pattern="com.todaytix.cms.LoggingService.*" />
       </blacklist>
-      <blacklist language="Java" />
+      <blacklist language="Kotlin" />
     </blacklists>
   </component>
 </application>
