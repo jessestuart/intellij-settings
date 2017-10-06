@@ -5,27 +5,8 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="Changed Files" />
+    <option name="FILE_MASK" value="*es6*, *.gsp" />
     <recentFileMasks>
-      <mask>**</mask>
-      <mask>*.</mask>
-      <mask>*.g</mask>
-      <mask>*.gs</mask>
-      <mask>*.gsp</mask>
-      <mask>*</mask>
-      <mask>*.gr</mask>
-      <mask>*.gro</mask>
-      <mask>*.groov</mask>
-      <mask>*.groovy</mask>
-      <mask>*.groovy,</mask>
-      <mask>*.groovy, *</mask>
-      <mask>*.groovy, *.gs</mask>
-      <mask>*.groovy, *.gsp</mask>
-      <mask>*.groovy, *.gsp,</mask>
-      <mask>*.groovy, *.gsp,</mask>
-      <mask>*.groovy, *.gsp, *</mask>
-      <mask>*.groovy, *.gsp, *.</mask>
-      <mask>*.groovy, *.gsp, *.j</mask>
-      <mask>*.groovy, *.gsp, *.js</mask>
       <mask>*.groovy, *.gsp, *.js,</mask>
       <mask>*.groovy, *.gsp, *.js,</mask>
       <mask>*.groovy, *.gsp, *.js, *</mask>
@@ -36,6 +17,26 @@
       <mask>*.groovy, *.gsp, *.js, *.coffe</mask>
       <mask>*.groovy, *.gsp, *.js, *.coffee</mask>
       <mask>*.coffee</mask>
+      <mask>*.coffee,</mask>
+      <mask>*.coffee,</mask>
+      <mask>*.coffee, *</mask>
+      <mask>*.coffee, *.</mask>
+      <mask>*.coffee, *.e</mask>
+      <mask>*.coffee, *.es</mask>
+      <mask>*.coffee, *.es6</mask>
+      <mask>*.es6.**</mask>
+      <mask>*.es6.*</mask>
+      <mask>*.es6.</mask>
+      <mask>*.es6</mask>
+      <mask>*.es6**</mask>
+      <mask>*.es6*</mask>
+      <mask>*es6*</mask>
+      <mask>*es6*,</mask>
+      <mask>*es6*,</mask>
+      <mask>*es6*, *</mask>
+      <mask>*es6*, *.</mask>
+      <mask>*es6*, *.gs</mask>
+      <mask>*es6*, *.gsp</mask>
     </recentFileMasks>
   </component>
 </application>
