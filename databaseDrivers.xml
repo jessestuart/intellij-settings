@@ -1,7 +1,6 @@
 <application>
   <component name="LocalDatabaseDriverManager" version="163">
     <driver id="exasol">
-      <artifact name="Exasol" use="true" />
       <option name="auto-sync" value="true" />
     </driver>
     <driver id="h2.unified">
@@ -90,9 +89,6 @@
       <artifact name="MySQL Connector/J" use="true" version="5.1.40" />
       <option name="auto-sync" value="true" />
       <option name="auto-commit" value="true" />
-      <library>
-        <url>file://$MAVEN_REPOSITORY$/mysql/mysql-connector-java/5.1.20/mysql-connector-java-5.1.20.jar</url>
-      </library>
     </driver>
     <driver id="hsqldb.remote">
       <artifact name="HSQLDB" use="true" />
