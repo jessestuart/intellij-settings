@@ -1,0 +1,9 @@
+<application>
+  <component name="AbbreviationManager">
+    <abbreviations>
+      <action id="Grails.Service">
+        <abbreviation name="grails-service" />
+      </action>
+    </abbreviations>
+  </component>
+</application>
