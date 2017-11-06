@@ -1,6 +1,6 @@
 <application>
   <component name="DefaultFont">
-    <option name="FONT_SIZE" value="14" />
+    <option name="FONT_SIZE" value="15" />
     <option name="FONT_FAMILY" value="Operator Mono" />
     <option name="LINE_SPACING" value="1.2" />
     <option name="USE_LIGATURES" value="true" />
@@ -42,10 +42,6 @@
       <item index="7" class="java.lang.String" itemvalue="WARNING" />
       <item index="8" class="java.lang.String" itemvalue="ERROR" />
     </list>
-  </component>
-  <component name="SqlEditorOptions">
-    <option name="concatenateStringsOnEnter" value="true" />
-    <option name="qualificationType" value="On collisions" />
   </component>
   <component name="TodoConfiguration">
     <pattern pattern="\btodo\b.*" />
