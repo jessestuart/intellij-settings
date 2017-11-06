@@ -9,6 +9,7 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.groovy" />
     <recentFileMasks>
       <mask>*es6*, *.gs</mask>
       <mask>*es6*, *.gsp</mask>
@@ -18,10 +19,7 @@
       <mask>*es6*</mask>
       <mask>**</mask>
       <mask>*.g</mask>
-      <mask>*.gro</mask>
       <mask>*.groo</mask>
-      <mask>*.groov</mask>
-      <mask>*.groovy</mask>
       <mask>*vo</mask>
       <mask>*vou</mask>
       <mask>*vouc</mask>
@@ -29,7 +27,6 @@
       <mask>*voucher</mask>
       <mask>*voucher**</mask>
       <mask>*voucher*</mask>
-      <mask>*</mask>
       <mask>*.c</mask>
       <mask>*.co</mask>
       <mask>*.cof</mask>
@@ -40,6 +37,10 @@
       <mask>*.coffee,</mask>
       <mask>*.coffee, *</mask>
       <mask>*.coffee, *.gsp</mask>
+      <mask>*</mask>
+      <mask>*.gro</mask>
+      <mask>*.groov</mask>
+      <mask>*.groovy</mask>
     </recentFileMasks>
   </component>
 </application>
