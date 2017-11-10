@@ -1,5 +1,5 @@
 <templateSet group="Groovy">
-  <template name="logi" value="log.info &quot;$END$&quot;" toReformat="true" toShortenFQNames="true">
+  <template name="logi" value="log.info &quot;$END$&quot;" description="" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="GROOVY" value="true" />
     </context>
