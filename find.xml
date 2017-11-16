@@ -7,9 +7,9 @@
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.coffee" />
     <recentFileMasks>
       <mask>**</mask>
-      <mask>*.g</mask>
       <mask>*vo</mask>
       <mask>*vou</mask>
       <mask>*vouc</mask>
@@ -17,27 +17,28 @@
       <mask>*voucher</mask>
       <mask>*voucher**</mask>
       <mask>*voucher*</mask>
-      <mask>*.c</mask>
-      <mask>*.co</mask>
-      <mask>*.cof</mask>
-      <mask>*.coff</mask>
-      <mask>*.coffe</mask>
-      <mask>*.coffee</mask>
       <mask>*.coffee,</mask>
       <mask>*.coffee,</mask>
       <mask>*.coffee, *</mask>
       <mask>*.coffee, *.gsp</mask>
-      <mask>*</mask>
       <mask>*.groov</mask>
       <mask>*.s</mask>
       <mask>*.slq</mask>
       <mask>*.sl</mask>
       <mask>*.sq</mask>
       <mask>*.sql</mask>
-      <mask>*.</mask>
       <mask>*.gro</mask>
       <mask>*.groo</mask>
       <mask>*.groovy</mask>
+      <mask>*</mask>
+      <mask>*.g</mask>
+      <mask>*.</mask>
+      <mask>*.c</mask>
+      <mask>*.co</mask>
+      <mask>*.cof</mask>
+      <mask>*.coff</mask>
+      <mask>*.coffe</mask>
+      <mask>*.coffee</mask>
     </recentFileMasks>
   </component>
 </application>
