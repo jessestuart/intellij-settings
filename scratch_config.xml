@@ -5,6 +5,7 @@
       <list>
         <option value="scratch.groovy" />
         <option value="threadDump1.txt" />
+        <option value="scratch.txt" />
       </list>
     </option>
     <option name="scratchesFolderPath" value="$APPLICATION_CONFIG_DIR$/scratches" />
