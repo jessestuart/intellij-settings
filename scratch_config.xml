@@ -10,6 +10,7 @@
         <option value="scratch.js" />
         <option value="scratch.sql" />
         <option value="scratch_2.groovy" />
+        <option value="scratch_3.groovy" />
       </list>
     </option>
     <option name="scratchesFolderPath" value="$APPLICATION_CONFIG_DIR$/scratches" />
